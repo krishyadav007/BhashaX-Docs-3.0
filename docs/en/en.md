@@ -1,4 +1,5 @@
 # Welcome to BhashaJS in English 
+
 # Usage
 
 ## How to register
@@ -23,5 +24,23 @@
 
 ## How to login
 # Interface
+### Running a code
+1. Click on the green button with "Run", written on it.
+2. Output will be visible in the output section.
+### Clearing the output
 ## Delete the code
+
 # Tutorials
+### Hello world
+Lets get started by the very basics. We need the computer to say "Hello world". For this we would need to write
+```
+@display("Hello world");
+```
+### Comment
+Comments in Python
+
+Thus anything written after `//` will be considered comment for example.
+```
+@display("Hello world"); // This line will print hello world
+```
+# Errors
