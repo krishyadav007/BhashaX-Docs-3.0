@@ -70,4 +70,47 @@ $food = "Milk"
 ```
 Here `$food` is the name of variable. Whenever we want to write a name of variable. Then
 
+
+### Operations
+There are many opreations which we can do.
+#### Addition
+```
+15 + 10
+```
+
+#### Subtraction
+```
+15 - 10
+```
+
+#### Multiplication
+```
+15 * 10
+```
+
+#### Divison
+```
+15 / 10
+```
+
+### If-else
+??
+### Loops
+### Loops
+### Lists
+### Functions
+
 # Errors
+
+# Same codes
+### Calculator
+```
+$number1 = @input(“Please tell the first number1”)
+$number2 = @input(“Please tell the first number2”)
+
+$sum = $number1 + $number2
+
+@display(“The sum is : ”)
+@display($sum)
+// THIS IS BY ME
+```
