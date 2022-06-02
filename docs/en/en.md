@@ -27,7 +27,11 @@
 ### Running a code
 1. Click on the green button with "Run", written on it.
 2. Output will be visible in the output section.
+
 ### Clearing the output
+1. Click on the blue button with "Clear" written on it.
+2. All the output will get cleared.
+
 ## Delete the code
 
 # Tutorials
@@ -43,4 +47,27 @@ Thus anything written after `//` will be considered comment for example.
 ```
 @display("Hello world"); // This line will print hello world
 ```
+### String
+Text is called in the programming terminology is called as string.
+
+#### How do we write it
+To write strings we write whatever text I want inside single `'` or double qoutes `"`.
+For example
+```
+"My name is Allen"
+
+'My name is Ram'
+```
+
+### Variables
+Variables are like boxes. They store whatever you put in them. You can add or remove whatever you added in it or even delete/destroy that box.
+
+Now there can be as many boxes as possible. How will we diffentiate them? For this at home we add labels to box. Since variables are largely boxes, we need to name them too.
+
+For example
+```
+$food = "Milk"
+```
+Here `$food` is the name of variable. Whenever we want to write a name of variable. Then
+
 # Errors
