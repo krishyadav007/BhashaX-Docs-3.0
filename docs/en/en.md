@@ -102,7 +102,7 @@ There are many opreations which we can do.
 
 # Errors
 
-# Same codes
+# Sample code
 ### Calculator
 ```
 $number1 = @input(“Please tell the first number1”)
