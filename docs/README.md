@@ -1,3 +1,3 @@
-# Headline
+# BhashaX documentation
 
-> An awesome project.
+Welcome to BhashaX documentation
