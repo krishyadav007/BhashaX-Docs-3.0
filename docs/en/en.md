@@ -94,8 +94,8 @@ There are many opreations which we can do.
 ```
 
 ### If-else
-??
-### Loops
+Joe is a 4 year old boy. If today it rains, then I will stay inside home and play ludo, or else I will go out side and play cricket.
+
 ### Loops
 ### Lists
 ### Functions
