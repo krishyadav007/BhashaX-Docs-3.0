@@ -33,6 +33,7 @@
 2. All the output will get cleared.
 
 ## Delete the code
+You need to select all the code, and then delete it.
 
 # Tutorials
 ### Hello world
@@ -70,32 +71,42 @@ $food = "Milk"
 ```
 Here `$food` is the name of variable. Whenever we want to write a name of variable. Then
 
+### Getting input
 
 ### Operations
 There are many opreations which we can do.
-#### Addition
+#### Arithmetic
+##### Addition
 ```
 15 + 10
 ```
 
-#### Subtraction
+##### Subtraction
 ```
 15 - 10
 ```
 
-#### Multiplication
+##### Multiplication
 ```
 15 * 10
 ```
 
-#### Divison
+##### Divison
 ```
 15 / 10
 ```
 
 ### If-else
-Joe is a 4 year old boy. If today it rains, then I will stay inside home and play ludo, or else I will go out side and play cricket.
+Joe is a 4 year old boy. If today it rains, then he will stay inside home and play ludo, or else he will go out side and play cricket. Here based on the environment, Joe decides the outcome of what to do.
 
+Many time when we code, we also need to chose the outcome of what we have to do based on the situation/condition. Thus we use If else.
+
+```
+$number_of_chocolates = 20
+if( number_of_chocolates == 20 ) {
+  @display("You have 20 Chocolates");
+}
+```
 ### Loops
 ### Arrays
 Consider Array as train. You have engine, and then bogies after the engine. You can keep adding as boggies you want. Then you can also remove some bogies. People can come and go out of a bogie and so on.
