@@ -95,6 +95,36 @@ There are many opreations which we can do.
 ```
 15 / 10
 ```
+#### Relational
+##### Equal to
+It is used to compare 2 values, we use Equal to opreaor. It is denoted by `==` two equal symbols one after other without space. If the value on Left hand side and right hand side are equal, it shall result as true or else it will return false.
+```
+@display(10 == 10) // Will print True
+@display(15 == 10) // Will print False
+
+$number1 = 5*2
+@display(number1 == 10) // Will print True
+```
+##### Is greater
+```
+15 > 10
+```
+##### Is lesser
+```
+15 < 10
+```
+##### Is not equal
+```
+15 != 10
+```
+##### Is greater than or equal to
+```
+15 >= 10
+```
+##### Is lesser than or equal to
+```
+15 <= 10
+```
 
 ### If-else
 Joe is a 4 year old boy. If today it rains, then he will stay inside home and play ludo, or else he will go out side and play cricket. Here based on the environment, Joe decides the outcome of what to do.
