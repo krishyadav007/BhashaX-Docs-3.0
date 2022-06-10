@@ -97,8 +97,15 @@ There are many opreations which we can do.
 Joe is a 4 year old boy. If today it rains, then I will stay inside home and play ludo, or else I will go out side and play cricket.
 
 ### Loops
-### Lists
+### Arrays
+Consider Array as train. You have engine, and then bogies after the engine. You can keep adding as boggies you want. Then you can also remove some bogies. People can come and go out of a bogie and so on.
+
+Array is a special variable, which can hold more than one value:
+
+
+
 ### Functions
+Function is a block of code designed to perform a particular task.
 
 # Errors
 
