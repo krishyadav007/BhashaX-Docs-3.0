@@ -72,7 +72,19 @@ $food = "Milk"
 Here `$food` is the name of variable. Whenever we want to write a name of variable. Then
 
 ### Getting input
+To get the input from user we use 
+```
+@input("Please tell your input")
+```
 
+If you want to store the value of input in some variable then you can do so by
+
+```
+$input = @input("Please tell your input")
+$name = @input("Please tell your name")
+```
+
+But wait how will computer distguish whether the input you want to pass is `"4"` or `4`, i.e is it a text or a number. All the input you pass to computer by defualt is considered as number. We need to change them
 ### Operations
 There are many opreations which we can do.
 #### Arithmetic
@@ -153,8 +165,8 @@ Function is a block of code designed to perform a particular task.
 # Sample code
 ### Calculator
 ```
-$number1 = @input(“Please tell the first number1”)
-$number2 = @input(“Please tell the first number2”)
+$number1 = @input("Please tell the first number1")
+$number2 = @input("Please tell the first number2")
 
 $sum = $number1 + $number2
 
