@@ -150,7 +150,11 @@ if( number_of_chocolates == 20 ) {
 }
 ```
 ### Loops
-Some times when we do things wrong, teacher gives us the punishment to write the same word 10 or 100 times. 
+Some times when we do things wrong, teacher gives us the punishment to write the same word 10 or 100 times. Imagine now you have to write the same sentence in computer. One way you can do is, copy and paste the same message again and again.
+```
+EG
+```
+Or use loops
 ### Arrays
 Consider Array as train. You have engine, and then bogies after the engine. You can keep adding as boggies you want. Then you can also remove some bogies. People can come and go out of a bogie and so on.
 
