@@ -118,6 +118,7 @@ $number1 = 5*2
 @display(number1 == 10) // Will print True
 ```
 ##### Is greater
+Is greater then symbol is if anything is greater then something or not.
 ```
 15 > 10
 ```
