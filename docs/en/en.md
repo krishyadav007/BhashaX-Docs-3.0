@@ -161,7 +161,7 @@ Consider Array as train. You have engine, and then bogies after the engine. You 
 
 Array is a special variable, which can hold more than one value:
 
-
+arr = [0,0,0,"heesh"]
 
 ### Functions
 Function is a block of code designed to perform a particular task.
