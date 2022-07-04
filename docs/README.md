@@ -7,3 +7,4 @@ Please vist the site at: https://bhashax.krishyadav.com/
 
 
 Currently avialable languages:
+Hindi
