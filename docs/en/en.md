@@ -3,7 +3,7 @@
 # Usage
 
 ## How to register
-### On laptop
+### On laptop 
 1. Click on register present on the top left corner of the website.
 2. It will open a new page with a form in it.
 3. Fill your real full name in the first blank.
@@ -24,11 +24,11 @@
 
 ## How to login
 # Interface
-### Running a code
+## Running a code
 1. Click on the green button with "Run", written on it.
 2. Output will be visible in the output section.
 
-### Clearing the output
+## Clearing the output
 1. Click on the blue button with "Clear" written on it.
 2. All the output will get cleared.
 
@@ -36,22 +36,24 @@
 You need to select all the code, and then delete it.
 
 # Tutorials
-### Hello world
+## Hello world
 Lets get started by the very basics. We need the computer to say "Hello world". For this we would need to write
 ```
 @display("Hello world");
 ```
-### Comment
-Comments in Python
+## Comment
+Comments in BhashaX
 
 Thus anything written after `//` will be considered comment for example.
 ```
 @display("Hello world"); // This line will print hello world
 ```
-### String
+Comments are useful to have explanatory information for the code.
+
+## String
 Text is called in the programming terminology is called as string.
 
-#### How do we write it
+### How do we write it
 To write strings we write whatever text I want inside single `'` or double qoutes `"`.
 For example
 ```
@@ -60,18 +62,18 @@ For example
 'My name is Ram'
 ```
 
-### Variables
+## Variables
 Variables are like boxes. They store whatever you put in them. You can add or remove whatever you added in it or even delete/destroy that box.
 
 Now there can be as many boxes as possible. How will we diffentiate them? For this at home we add labels to box. Since variables are largely boxes, we need to name them too.
 
-For example
+For example :-
 ```
 $food = "Milk"
 ```
-Here `$food` is the name of variable. Whenever we want to write a name of variable. Then
+Here `$food` is the name of variable. Whenever we want to write a name of variable. 
 
-### Getting input
+## Getting input
 To get the input from user we use 
 ```
 @input("Please tell your input")
@@ -85,30 +87,37 @@ $name = @input("Please tell your name")
 ```
 
 But wait how will computer distguish whether the input you want to pass is `"4"` or `4`, i.e is it a text or a number. All the input you pass to computer by defualt is considered as number. We need to change them
-### Operations
+
+## Operations
 There are many opreations which we can do.
-#### Arithmetic
-##### Addition
+### Arithmetic
+#### Addition
 ```
 15 + 10
 ```
 
-##### Subtraction
+#### Subtraction
 ```
 15 - 10
 ```
 
-##### Multiplication
+#### Multiplication
 ```
 15 * 10
 ```
 
-##### Divison
+#### Divison
 ```
 15 / 10
 ```
-#### Relational
-##### Equal to
+
+#### Modulus
+Modulus is finding the remainder of the division.
+```
+15 % 10  // This will give you the remainder of the division, 15 / 10 has remainder of 5.
+```
+### Relational
+#### Equal to
 It is used to compare 2 values, we use Equal to opreaor. It is denoted by `==` two equal symbols one after other without space. If the value on Left hand side and right hand side are equal, it shall result as true or else it will return false.
 ```
 @display(10 == 10) // Will print True
@@ -117,27 +126,59 @@ It is used to compare 2 values, we use Equal to opreaor. It is denoted by `==` t
 $number1 = 5*2
 @display(number1 == 10) // Will print True
 ```
-##### Is greater
-Is greater then symbol is if anything is greater then something or not.
+#### Is greater
+Is greater than symbol is if anything is greater than something or not.
 ```
 15 > 10
 ```
-##### Is lesser
+#### Is lesser
+Is lesser than symbol is if anything is lesser than something or not.
 ```
 15 < 10
 ```
-##### Is not equal
+#### Is not equal
+Checks if the value on left hand side is not equal to the value on right hand side.
 ```
 15 != 10
 ```
-##### Is greater than or equal to
+#### Is greater than or equal to
+The Is greater than or equal to symbol is if anything is greater than or equal to something or not.
 ```
 15 >= 10
 ```
-##### Is lesser than or equal to
+#### Is lesser than or equal to
+The Is lesser than or equal to symbol is if anything is lesser than or equal to something or not.
 ```
 15 <= 10
 ```
+### Assignment Operator
+The assignment operators are used to assign variables a value or result of an expression.
+```
+// Syntax:
+$variable_name = "value";
+$my_number = 3.14159;
+```
+`=` is one of the assingment operators.
+#### Shorthand assignment operators
+Say for example to add `1` to `$my_number` we can use the following
+```
+$my_number = $my_number + 1;
+```
+here we are refrencing `$my_number` 2 times, this can be made shorter by using the shorthand assignment operators.
+```
+$my_number += 1;
+```
+the `+=`, `-=`, `*=`, `/=`, `%=` are all shorthand assignment operators.
+
+### Increment/Decrement Operators
+Increment and decrement operators are used to increment or decrement the value of a variable, by 1 unit.
+
+Example :-
+```
+$my_number++;
+```
+
+<!-- Add Logical, Bitwise operators -->
 
 ### If-else
 Joe is a 4 year old boy. If today it rains, then he will stay inside home and play ludo, or else he will go out side and play cricket. Here based on the environment, Joe decides the outcome of what to do.
