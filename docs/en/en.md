@@ -219,10 +219,39 @@ First the `$number_of_chocolates < 10` will be checked, if it is true, then the 
 
 ### Loops
 Some times when we do things wrong, teacher gives us the punishment to write the same word 10 or 100 times. Imagine now you have to write the same sentence in computer. One way you can do is, copy and paste the same message again and again.
+```py
+@display("I am a programmer");
+@display("I am a programmer");
+@display("I am a programmer");
+@display("I am a programmer");
+@display("I am a programmer");
+...
+@display("I am a programmer");
 ```
-EG
+Or use loops, which are used to repeat the same code multiple times.
+There are 2 different loops, `for` and `while`, let's have a look at the for loop.
+The `for` loop accepts the initialization, condition and increment.
+1. Initialization: This is the code which is executed before the loop starts, `var i = 0` is the initialization, it creates a new variable `i` and sets it to 0.
+2. Condition: This is the code which is executed before the loop is executed, `i < 10` is the condition, it checks if the value of `i` is less than 10.
+3. Increment: This is the code which is executed after the loop is executed, `i++` is the increment, it increments the value of `i` by 1.
+
+```js
+// Print "I am a programmer" 10 times
+for (var i = 0; i < 10; i++) {
+  @display("I am a programmer");
+}
 ```
-Or use loops
+
+there is one more way to do the same thing, we can use the `while` loop. The `while` loop accepts only the condition.
+```js
+var i = 0;
+while (i < 10) {
+  @display("I am a programmer");
+  i++;
+}
+```
+This is the same as the above for loop, just the syntax is different.
+
 ### Arrays
 Consider Array as train. You have engine, and then bogies after the engine. You can keep adding as boggies you want. Then you can also remove some bogies. People can come and go out of a bogie and so on.
 
