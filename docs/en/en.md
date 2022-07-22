@@ -231,23 +231,23 @@ Some times when we do things wrong, teacher gives us the punishment to write the
 Or use loops, which are used to repeat the same code multiple times.
 There are 2 different loops, `for` and `while`, let's have a look at the for loop.
 The `for` loop accepts the initialization, condition and increment.
-1. Initialization: This is the code which is executed before the loop starts, `var i = 0` is the initialization, it creates a new variable `i` and sets it to 0.
-2. Condition: This is the code which is executed before the loop is executed, `i < 10` is the condition, it checks if the value of `i` is less than 10.
-3. Increment: This is the code which is executed after the loop is executed, `i++` is the increment, it increments the value of `i` by 1.
+1. Initialization: This is the code which is executed before the loop starts, `$i = 0` is the initialization, it creates a new variable `$i` and sets it to 0.
+2. Condition: This is the code which is executed before the loop is executed, `$i < 10` is the condition, it checks if the value of `$i` is less than 10.
+3. Increment: This is the code which is executed after the loop is executed, `$i++` is the increment, it increments the value of `$i` by 1.
 
 ```js
 // Print "I am a programmer" 10 times
-for (var i = 0; i < 10; i++) {
+for ($i = 0; $i < 10; $i++) {
   @display("I am a programmer");
 }
 ```
 
 there is one more way to do the same thing, we can use the `while` loop. The `while` loop accepts only the condition.
 ```js
-var i = 0;
-while (i < 10) {
+$i = 0;
+while ($i < 10) {
   @display("I am a programmer");
-  i++;
+  $i++;
 }
 ```
 This is the same as the above for loop, just the syntax is different.
@@ -258,7 +258,7 @@ Consider Array as train. You have engine, and then bogies after the engine. You 
 Array is a special variable, which can hold more than one value:
 
 ```
-arr = [0,0,0,"heesh"]
+$arr = [0,0,0,"heesh"];
 ```
 
 ### Functions
