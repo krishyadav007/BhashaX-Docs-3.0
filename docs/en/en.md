@@ -191,9 +191,32 @@ if( number_of_chocolates == 20 ) {
   @display("You have 20 Chocolates");
 }
 else {
-// TO DO
+  @display("You have 20 Chocolates");
 }
 ```
+
+The else block is optional, it can be omitted if we don't want to write anything in else block.
+
+#### Multiple conditions
+If we want to check multiple conditions, we can use the `else if` ladder. The Else if ladder is used to check multiple conditions.
+For example you wanted to check if the number of chocolates is less than 10, if it is less than 10, then you want to say "You have less than 10 chocolates, we need more chocolate!", otherwise you want to check if you have less than 50 chocolate, then you want to say "You have enough chocolates", otherwise you want to say "You have more than 50 chocolates, that's a lot of chocolate! dont forget to share".
+
+```js
+$number_of_chocolates = parseInt(@input("Please tell the number of chocolates"));
+// the parseInt function is used to convert the string to integer.
+
+if ($number_of_chocolates < 10) {
+  @display("You have less than 10 chocolates, we need more chocolate!");
+}
+else if ($number_of_chocolates < 50) {
+  @display("You have enough chocolates");
+}
+else {
+  @display("You have more than 50 chocolates, that's a lot of chocolate! dont forget to share");
+}
+```
+First the `$number_of_chocolates < 10` will be checked, if it is true, then the `@display("You have less than 10 chocolates, we need more chocolate!")` will be executed. If it is false, then the `$number_of_chocolates < 50` will be checked, if it is true, then the `@display("You have enough chocolates")` will be executed. If it is false, then the `@display("You have more than 50 chocolates, that's a lot of chocolate! dont forget to share")` will be executed.
+
 ### Loops
 Some times when we do things wrong, teacher gives us the punishment to write the same word 10 or 100 times. Imagine now you have to write the same sentence in computer. One way you can do is, copy and paste the same message again and again.
 ```
@@ -205,7 +228,9 @@ Consider Array as train. You have engine, and then bogies after the engine. You 
 
 Array is a special variable, which can hold more than one value:
 
+```
 arr = [0,0,0,"heesh"]
+```
 
 ### Functions
 Function is a block of code designed to perform a particular task.
@@ -213,14 +238,14 @@ Function is a block of code designed to perform a particular task.
 # Errors
 
 # Sample code
-### Calculator
-```
-$number1 = @input("Please tell the first number1")
-$number2 = @input("Please tell the first number2")
+## Calculator
+```js
+$number1 = parseInt(@input("Please tell the first number1"));
+$number2 = parseInt(@input("Please tell the first number2"));
 
-$sum = $number1 + $number2
+$sum = $number1 + $number2;
 
-@display(“The sum is : ”)
-@display($sum)
+@display(“The sum is : ”);
+@display($sum);
 // THIS IS BY ME
 ```
