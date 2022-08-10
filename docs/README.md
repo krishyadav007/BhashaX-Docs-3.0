@@ -15,9 +15,13 @@ Currently avialable languages:
 5. (hy) armenian
 6. (az) azerbaijani
 7.(eu) basque
+
 8.(be) belarusian
+
 9.(bn) bengali
+
 10.(bs) bosnian
+
 11.(bg) bulgarian
 12.(ca) catalan
 13.(ce) bcebuano
@@ -28,6 +32,7 @@ Currently avialable languages:
 18.(cs) czech
 19.(da) danish
 20.(nl) dutch
+
 21.(en) english
 22.(eo) esperanto
 23.(et) estonian
