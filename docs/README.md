@@ -2,6 +2,8 @@
 
 Welcome to BhashaX documentation
 
+Hello, welcome to docs.
+These docs are open source, and you are free to contribute to it. Please do as as much as possible.
 
 Please vist the site at: https://bhashax.krishyadav.com/
 
