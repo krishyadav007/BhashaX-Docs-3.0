@@ -14,24 +14,24 @@ Currently avialable languages:
 4. (ar) arabic
 5. (hy) armenian
 6. (az) azerbaijani
-7.(eu) basque
+7. (eu) basque
 
-8.(be) belarusian
+8. (be) belarusian
 
-9.(bn) bengali
+9. (bn) bengali
 
-10.(bs) bosnian
+10. (bs) bosnian
 
-11.(bg) bulgarian
-12.(ca) catalan
-13.(ce) bcebuano
-14.(ny) chichewa
-15.(zh-cn) chinese (simplified)
-16.(zh-tw) chinese (traditional)
-17.(hr) croatian
-18.(cs) czech
-19.(da) danish
-20.(nl) dutch
+11. (bg) bulgarian
+12. (ca) catalan
+13. (ce) bcebuano
+14. (ny) chichewa
+15. (zh-cn) chinese (simplified)
+16. (zh-tw) chinese (traditional)
+17. (hr) croatian
+18. (cs) czech
+19. (da) danish
+20. (nl) dutch
 
 21.(en) english
 22.(eo) esperanto
