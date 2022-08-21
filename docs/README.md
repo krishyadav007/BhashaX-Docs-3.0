@@ -71,29 +71,29 @@ Currently avialable languages:
 59. (or) odia
 60. (ps) pashto
 61. (fa) persian
-(pl) polish
-(pa) punjabi
-(ro) romanian
-(ru) russian
-(sm) samoan
-(sr) serbian
-(sn) shona
-(sd) sindhi
-(si) sinhala
-(sk) slovak
-(sl) slovenian
-(su) sundanese
-(sw) swahili
-(sv) swedish
-(tg) tajik
-(ta) tamil
-(te) telugu
-(th) thai
-(tr) turkish
-(ur) urdu
-(uz) uzbek
-(vi) vietnamese
-(cy) welsh
-(xh) xhosa
-(yi) yiddish
-(zu) zulu
+62. (pl) polish
+63. (pa) punjabi
+64. (ro) romanian
+65. (ru) russian
+66. (sm) samoan
+67. (sr) serbian
+68. (sn) shona
+69. (sd) sindhi
+70. (si) sinhala
+71. (sk) slovak
+72. (sl) slovenian
+73. (su) sundanese
+74. (sw) swahili
+75. (sv) swedish
+76. (tg) tajik
+77. (ta) tamil
+78. (te) telugu
+79. (th) thai
+80. (tr) turkish
+81. (ur) urdu
+82. (uz) uzbek
+83. (vi) vietnamese
+84. (cy) welsh
+85. (xh) xhosa
+86. (yi) yiddish
+87. (zu) zulu
