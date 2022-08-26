@@ -6,6 +6,7 @@ Hello, welcome to docs.
 
 These docs are open source, and you are free to contribute to it and help people learn code using BhasahX Please do as as much as possible. For more info check repo.
 
+# Please contribute in making the docs
 Please vist the site at: https://bhashax.krishyadav.com/
 
 
