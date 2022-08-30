@@ -191,7 +191,7 @@ if( number_of_chocolates == 20 ) {
   @display("You have 20 Chocolates");
 }
 else {
-  @display("You have 20 Chocolates");
+  @display("You have don't have 20 Chocolates");
 }
 ```
 
@@ -219,7 +219,7 @@ First the `$number_of_chocolates < 10` will be checked, if it is true, then the 
 
 ### Loops
 Some times when we do things wrong, teacher gives us the punishment to write the same word 10 or 100 times. Imagine now you have to write the same sentence in computer. One way you can do is, copy and paste the same message again and again.
-```py
+```js
 @display("I am a programmer");
 @display("I am a programmer");
 @display("I am a programmer");
@@ -257,7 +257,7 @@ Consider Array as train. You have engine, and then bogies after the engine. You 
 
 Array is a special variable, which can hold more than one value:
 
-```
+```js
 $arr = [0,0,0,"heesh"];
 ```
 
