@@ -7,6 +7,13 @@ Hello, welcome to docs.
 These docs are open source, and you are free to contribute to it and help people learn code using BhasahX Please do as as much as possible. For more info check repo.
 
 # Please contribute in making the docs
+## Structure of repo
+
+We have docs folder which contains many 2/4 lettered folders. Each two letter represents the ISO language code, you can also see them below. Inside that repo, you can find a markdown file of the same name. Say if you wanted to contribute to English (en) docs, then go to
+```
+/docs/en/en.md
+```
+file, and make the changes.
 
 ## Main site
 Please vist the site at: https://bhashax.krishyadav.com/
