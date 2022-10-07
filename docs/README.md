@@ -45,8 +45,11 @@ New members from Hacktoberfest 2022 are welcomed to come and contribute to this 
 ### Resources to get started
 1. Learn markdown: https://learnxinyminutes.com/docs/markdown/
 
-## Main site
-Please vist the site at: https://bhashax.krishyadav.com/
+## Important links
+
+1. Link to the main site: https://bhashax.krishyadav.com/
+2. Link to the documentation site: [https://krishyadav007.github.io/BhashaX-Docs-3.0/#/](https://krishyadav007.github.io/BhashaX-Docs-3.0/#/)
+3. Link to the documentiation repository: [https://github.com/krishyadav007/BhashaX-Docs-3.0](https://github.com/krishyadav007/BhashaX-Docs-3.0/)
 
 ## Languages
 Currently avialable languages:
