@@ -7,6 +7,7 @@ Hello, welcome to docs.
 These docs are open source, and you are free to contribute to it and help people learn code using BhasahX Please do as as much as possible. For more info check repo.
 
 # Please contribute in making the docs
+
 ## Structure of repo
 
 We have docs folder which contains many 2/4 lettered folders. Each two letter represents the ISO language code, you can also see them below. Inside that repo, you can find a markdown file of the same name. Say if you wanted to contribute to English (en) docs, then go to
@@ -14,6 +15,19 @@ We have docs folder which contains many 2/4 lettered folders. Each two letter re
 /docs/en/en.md
 ```
 file, and make the changes.
+
+## Hacktoberfest 2022
+New members from Hacktoberfest 2022 are welcomed to come and contribute to this repository. Here are some Do's and Dont's:
+
+### Do
+1. Add new sections to tutorials/documentations in English
+2. Rephrase existing sections to tutorials/documentations in English
+3. Translate the English tutorials/documentations in some other language
+4. Have fun
+
+### Don't
+1. Don't just correct spelling mistakes and make PR.
+2. Vandelize the repo and documentation.
 
 ## Main site
 Please vist the site at: https://bhashax.krishyadav.com/
