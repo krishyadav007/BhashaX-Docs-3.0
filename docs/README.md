@@ -1,13 +1,17 @@
+# TLDR:- Please contribute in making the docs
+
+
 # BhashaX documentation
-
 Welcome to BhashaX documentation
-
-Hello, welcome to docs.
 
 These docs are open source, and you are free to contribute to it and help people learn code using BhasahX Please do as as much as possible. For more info check repo.
 
-# Please contribute in making the docs
-
+## What is BhashaX?
+### Watch the video:
+[![Youtube video id:- luTIWoStqNs](https://img.youtube.com/vi/luTIWoStqNs/0.jpg)](https://www.youtube.com/watch?v=luTIWoStqNs)
+Link to video :- https://www.youtube.com/watch?v=luTIWoStqNs
+### Watch the video:
+Presenting 𝗕𝗵𝗮𝘀𝗵𝗮𝗫, a project which enables 𝗮𝗻𝘆 𝗽𝗲𝗿𝘀𝗼𝗻 of the world :earth_americas: to code in their 𝗺𝗼𝘁𝗵𝗲𝗿 𝘁𝗼𝗻𝗴𝘂𝗲 like :sparkles: Hindi, Bengali, Tamil, French, Chinese, German,… 
 ## Structure of repo
 
 We have docs folder which contains many 2/4 lettered folders. Each two letter represents the ISO language code, you can also see them below. Inside that repo, you can find a markdown file of the same name. Say if you wanted to contribute to English (en) docs, then go to
@@ -28,6 +32,9 @@ New members from Hacktoberfest 2022 are welcomed to come and contribute to this 
 ### Don't
 1. Don't just correct spelling mistakes and make PR.
 2. Vandelize the repo and documentation.
+
+### Resources to get started
+1. Learn markdown: https://learnxinyminutes.com/docs/markdown/
 
 ## Main site
 Please vist the site at: https://bhashax.krishyadav.com/
