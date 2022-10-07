@@ -9,11 +9,20 @@ These docs are open source, and you are free to contribute to it and help people
 ## What is BhashaX?
 ### Watch the video:
 [![Youtube video id:- luTIWoStqNs](https://img.youtube.com/vi/luTIWoStqNs/0.jpg)](https://www.youtube.com/watch?v=luTIWoStqNs)
-Link to video :- https://www.youtube.com/watch?v=luTIWoStqNs
-### Watch the video:
-Presenting 𝗕𝗵𝗮𝘀𝗵𝗮𝗫, a project which enables 𝗮𝗻𝘆 𝗽𝗲𝗿𝘀𝗼𝗻 of the world :earth_americas: to code in their 𝗺𝗼𝘁𝗵𝗲𝗿 𝘁𝗼𝗻𝗴𝘂𝗲 like :sparkles: Hindi, Bengali, Tamil, French, Chinese, German,… 
-## Structure of repo
 
+Direct link :- https://www.youtube.com/watch?v=luTIWoStqNs
+
+### Didn't watch the video?:
+
+Programming is becomming one of the most important skill of 21st century. And why not? As the word enters digital revolution its importance is only rising. Many people across big and small parts of world are intrested in learning programming. But some time language may emerge as a barrier.
+
+```
+!! Lets break the barrier !!
+```
+No one should be left behind.
+BhashaX lets people code in thier own mother tounge.
+
+## Structure of repository
 We have docs folder which contains many 2/4 lettered folders. Each two letter represents the ISO language code, you can also see them below. Inside that repo, you can find a markdown file of the same name. Say if you wanted to contribute to English (en) docs, then go to
 ```
 /docs/en/en.md
@@ -129,3 +138,4 @@ Currently avialable languages:
 85. (xh) xhosa
 86. (yi) yiddish
 87. (zu) zulu
+Note:- This is the repository for Documentation of BhashaX. If you want to contribute to the code itself, please contact the owner of repo.
