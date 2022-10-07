@@ -141,4 +141,6 @@ Currently avialable languages:
 85. (xh) xhosa
 86. (yi) yiddish
 87. (zu) zulu
+
+
 Note:- This is the repository for Documentation of BhashaX. If you want to contribute to the code itself, please contact the owner of repo.
