@@ -1,1 +1,139 @@
 
+1. Hello World 
+2. How to accept input from User 
+3. How to sum 2 integers from user
+4. How to build a Simple Interest Calculator 
+5. How to Multiply Float Numbers 
+6. How to Find ASCII value
+7. How to get quotient and remainder
+8. How to swap 2 numbers
+9. Alternative method to swap 2 numbers 
+10. How to swap 2 Strings
+11. How to add Complex Numbers
+12. How calculate Sum of digit numbers
+13. How to calculate area of a circle
+14. How to calculate Area of a Circle
+15. How to calculate Area of a Rectangle
+16. How to calculate Area of Square
+17. How to calculate Area of a Triangle
+18. How to calculate volume of a Cube
+19. How to calculate Area of a Cylinder
+20. How to calculate volume of Sphere
+21. How to generate Random Numbers
+22. How to calculate gross salary
+23. How to calculate percentage
+24. A program to Shut Down Computer
+25. A program to get IP Address 
+26. A program for Date and Time
+27. How to detect Even and Odd numbers 
+28. How to detect Vowels and Consonants
+29. How to detect Greatest of 3 Numbers
+30. How to find Roots of Quadratic Equation
+31. How to detect a Leap Year
+32. How to display Student_s Grade
+33. How to Sum a given a Number
+34. How to Calculate factorial using function
+35. How to create Multiplication Table
+36. How to create Fibonacci Sequence
+37. How to Reverse Numbers
+38. How to Reverse Numbers using Array
+39. How to Reverse String
+40. How to check Palindrome
+41. How to create Prime Numbers
+42. How to Calculate HCF and LCM
+43. How to detect Armstrong Numbers
+44. How to generate Armstrong Numbers
+45. How to create Half Pyramid Pattern
+46. How to create half pyramid
+47. How to create Full Pyramid
+48. How to create Inverted Half Pyramid
+49. How to create Paschal Triangle
+50. How to create Perfect Square 
+51. How to create Diamond pattern
+52. How to build Simple Calculator
+53. How to Reverse Numbers using Array
+54. How to Reverse Array without Pointer
+55. How to find Length of String
+56. How to Add 2 Matrices with Multidimensional Array
+57. How to Subtract 2 Matrices
+58. How to Multiply 2 Matrices
+59. How to Transpose a Matrix
+60. How to Add 2 Numbers
+61. How to sum Array Elements 
+62. How to sort String
+63. How to Find the Maximum Element in an Array
+64. How to Merge 2 Arrays
+65. How to insert a new Element into an Array
+66. How to delete an Element in an Array
+67. Check frequency of occurrence of a character
+68. How to remove spaces in-between strings
+69. String Concatenation
+70. Find the length of Strings
+71. How to copy Strings
+72. How to Compare Strings
+73. How to get the substring of a string
+74. How to find the Minimum Element
+75. How to remove Vowels from String
+76. How to use Structure
+77. How to add 2 distances using Structure
+78. How to generate Student_s Data using Union
+79. How to write to File
+80. How to read a File
+81. How to Delete a File
+82 How to copy one file into another
+83. How to copy more than one Files
+84. How to print out source code
+85. How to convert from Binary to Decimal
+86. How to convert from Binary to Hexadecimal
+87. How to convert from Decimal to Octal
+88. How to convert from Decimal to Binary
+89. How to Convert from Decimal to Binary Bitwise
+90. How to build Binary Pattern
+91. Squares of N Numbers
+92. How to get square of number entered by user
+93. How to check for Positive Number
+94. Alternative method to check for Positive Number
+95. How to Add first and last digit of a Number
+96. How to find Factors of a Number
+97. How to Check Average of numbers
+98. How to convert from Uppercase to Lowercase
+99. How to create Binary Pattern
+100. How to convert from Binary to Octal 
+101. How to create a Diamond Pattern
+102. How to create Diamond Outline
+103. How to Create Diamond of Numbers
+104. How to create Floyd's pattern
+105. How to create a Hollow Diamond pattern
+106. How to create a Hollow square pattern
+107. How to create Hour Glass pattern
+108. How to create Star Hash pyramid pattern
+109. How to create Nested Star Hash Pyramid
+110. How to create Alpha Numeric Pattern
+111. How to build Numeric Diamond Pattern
+112. How to create Numeric Pattern
+113. How to create Numeric Pattern (Part 2)
+114. How to create Numeric Pattern (Part 3)
+115. How to create Numeric Pattern ( part 4)
+116. How to create Pascal Triangle
+117. How to create Pascal Triangle (Part 2)
+118. How to create Pascal Triangle using Function
+119. How to create Half Cone pattern
+120. How to create Alpha pattern
+121. How to create Alphabet Pattern
+122. How to create Numeric pattern (Part 5)
+123. How to create inverted Half Cone
+124. How to create a Simple Pattern (Part 2)
+125. How to create Numeric Diagonal
+126. How to create a Simple Pattern(Part 3)
+127. How to create a Steep slope pattern
+128. How to check for Float and Integer
+129. How to create Numeric Slope Pattern
+130. How to create Pyramid pattern
+131. How to create Rectangular Pattern
+132. How to create Rectangular Star Pattern
+133. How to create Inverted Cone
+134. How to create a Rhombus pattern
+135. How to create Square Kite Pattern
+136. How to create Square star pattern
+137. How to create an X pattern
+138. How to create a Triangle without fill08:45
