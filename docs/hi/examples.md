@@ -1,9 +1,31 @@
+## 0. Hello World
+Printing hello world.
+```
+दिखाए('नमस्ते दुनिया');
+```
 
-1. Hello World 
-2. How to accept input from User 
-3. How to sum 2 integers from user
-4. How to build a Simple Interest Calculator 
-5. How to Multiply Float Numbers 
+## 1. Adding two numbers
+```
+$संख्या1=+१२.५०;
+$संख्या2=+१२.५०;
+$संख्या3 = $संख्या1 + $संख्या2;
+दिखाए($संख्या3);
+```
+
+## 2. How to accept input from User 
+Printing hello world.
+```
+दिखाए('नमस्ते दुनिया');
+```
+## 3. How to sum 2 integers from user
+```
+```
+## 4. How to build a Simple Interest Calculator 
+```
+```
+## 5. How to Multiply Float Numbers 
+```
+```
 6. How to Find ASCII value
 7. How to get quotient and remainder
 8. How to swap 2 numbers
