@@ -19,7 +19,7 @@ $संख्या3 = $संख्या1 + $संख्या2;
 ## 2. How to accept input from User 
 Printing hello world.
 ```
-दिखाए('नमस्ते दुनिया');
+डाल("हमें अपना इनपुट दें");
 ```
 ## 3. How to sum 2 integers from user
 ```
