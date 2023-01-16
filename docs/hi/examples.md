@@ -1,3 +1,7 @@
+Numbers in Hindi:
+```
+१२३४५६७८९०
+```
 ## 0. Hello World
 Printing hello world.
 ```
