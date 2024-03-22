@@ -1,4 +1,4 @@
-﻿# Welcome to BhashaJS telugu
+﻿# భాషా జెఎస్ తెలుగుకి స్వాగతం
 The below is the documentation
 ## Made by
 శ్రీనివాస్ సాయి రాఘ దర్శన్ కస్పా
