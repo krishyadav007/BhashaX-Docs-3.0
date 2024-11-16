@@ -1,4 +1,5 @@
 ## Environment file
+```
 {
   "AUTHOR": "NAME",
   "VERSION": "1",
@@ -242,9 +243,10 @@
     "' of '": ""
   }
 }
-
+```
 
 ## Example environment file
+```
 {
   "AUTHOR": "Krish Yadav",
   "VERSION": "1",
@@ -488,3 +490,4 @@
     "' of '": "' का '"
   }
 }
+```
