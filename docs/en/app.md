@@ -1,141 +1,149 @@
-### `@app`
+# 1. Creating the Application (@app)
+The @app function initializes your application. It defines the title, developer details, and the default colors for the background and foreground.
 
-Creates an application with specified attributes.
+Parameters:
+1. title (String): The title of the application window.
+2. Subtitle (String): Any other details which you want to tell.
+3. backgroundColor (String): Background color in hexadecimal format (e.g., #ffffff for white).
+4. foregroundColor (String): Foreground color in hexadecimal format (e.g., #000000 for black).
+Example:
+```
+@app(title: "My App", developer: "Developer Name", backgroundColor: "#f0f0f0", foregroundColor: "#333333")
+```
+# 2. Displaying Images (@image)
+The @image function adds an image to your application. You can control its dimensions and specify its source.
 
-- **Parameters**:
-  - `title` (String): Title of the application.
-  - `developer` (String): Developer of the application.
-  - `backgroundColor` (String): Background color of the application.
-  - `foregroundColor` (String): Foreground color of the application.
+Parameters:
+1. id (String): A unique identifier for the image.
+2. url (String): The URL or path to the image.
+3. width (Integer): The width of the image in pixels.
+4. height (Integer): The height of the image in pixels.
+Example:
+```
+@image(id: "logo", url: "https://example.com/logo.png", width: 200, height: 100)
+```
+# 3. Creating Headings
+@displayH1 to @displayH6
+These functions create headings with varying levels of importance, from @displayH1 (largest) to @displayH6 (smallest).
 
----
+Parameters:
+1. id (String): A unique identifier for the heading.
+2. text (String): The content of the heading.
+Example:
+````
+@displayH1(id: "mainHeading", text: "Welcome to BhashaX!")
+```
+# 4. Interactive Buttons
+@button
+The @button function adds a clickable button to your application. Buttons can trigger specific actions when clicked.
 
-### `@image`
+Parameters:
+1. id (String): A unique identifier for the button.
+2. label (String): The text displayed on the button.
+Example:
+````
+@button(id: "submitBtn", label: "Submit")
+```
+# 5. Checkbox Inputs
+@checkbox
+The @checkbox function creates a checkbox input element, which allows users to select or deselect an option.
 
-Displays an image with specified attributes.
+Parameters:
+1. id (String): A unique identifier for the checkbox.
+2. label (String): Text displayed next to the checkbox.
+Example:
+````
+@checkbox(id: "acceptTerms", label: "I agree to the terms and conditions")
+```
+# 6. Color Attribute (@color)
+The @color function sets a color for a specific GUI element.
 
-- **Parameters**:
-  - `id` (String): Identifier for the image.
-  - `url` (String): URL of the image.
-  - `width` (Integer): Width of the image.
-  - `height` (Integer): Height of the image.
+Parameters:
+1. id (String): The identifier of the element.
+2. color (String): The color value in hexadecimal format.
+Example:
+````
+@color(id: "mainHeading", color: "#ff4500")
+```
+# 7. Date Input
+@date
+The @date function creates an input field for selecting dates.
 
----
+Parameters:
+1. id (String): A unique identifier for the date input.
+2. label (String): Label text displayed for the input field.
+Example:
+````
+@date(id: "dob", label: "Select your birth date")
+```
+# 8. Date-Time Input
+@datetime_local
+This function creates an input field for selecting both a date and time.
 
-### `@displayH1` to `@displayH6`
+Parameters:
+1. id (String): A unique identifier for the input field.
+2. label (String): Label text displayed for the input field.
+Example:
+````
+@datetime_local(id: "eventTime", label: "Event Date & Time")
+```
+# 9. Email Input (@email)
+The @email function generates a text field for email address input.
 
-Displays headings with varying levels of importance.
+Parameters:
+1. id (String): A unique identifier for the input field.
+2. label (String): Label text displayed for the input field.
+Example:
+````
+@email(id: "userEmail", label: "Enter your email")
+```
+# 10. Number Input (@number)
+This function creates an input field for numeric values.
 
-- **Parameters**:
-  - `id` (String): Identifier for the heading.
-  - `text` (String): Text content of the heading.
+Parameters:
+1. id (String): A unique identifier for the input field.
+2. defaultValue (Number): The prefilled value in the input field.
+Example:
+````
+@number(id: "quantity", defaultValue: 1)
+```
+# 11. Telephone Input ( @tel )
+The @tel function generates an input field for telephone numbers.
 
----
+Parameters:
+1. id (String): A unique identifier for the input field.
+2. label (String): Label text displayed for the input field.
+Example:
+````
+@tel(id: "phone", label: "Enter your phone number")
+```
+# 12. Password Input ( @password )
+This function creates an input field for password input, which obscures the text entered by the user.
 
-### `@button`
+Parameters:
+1. id (String): A unique identifier for the input field.
+2. defaultValue (String): The prefilled value in the input field.
+Example:
+````
+@password(id: "userPassword", defaultValue: "")
+```
+# 13. Dropdown Select Menu ( @select )
+The @select function generates a dropdown menu with a list of selectable options.
 
-Creates a clickable button.
+Parameters:
+1. id (String): A unique identifier for the dropdown menu.
+2. options (Array of Strings): An array of strings representing the dropdown options.
+Example:
+````
+@select(id: "colorPicker", options: ["Red", "Green", "Blue"])
+```
+14. Radio Button Group ( @radio )
+The @radio function creates a group of radio buttons. Users can select one option from the group.
 
-- **Parameters**:
-  - `id` (String): Identifier for the button.
-  - `label` (String): Text displayed on the button.
-
----
-
-### `@checkbox`
-
-Creates a checkbox input element.
-
-- **Parameters**:
-  - `id` (String): Identifier for the checkbox.
-  - `label` (String): Text displayed next to the checkbox.
-
----
-
-### `@color`
-
-Specifies a color attribute for an element.
-
-- **Parameters**:
-  - `id` (String): Identifier for the element.
-  - `color` (String): Color value in hexadecimal format.
-
----
-
-### `@date`
-
-Creates a date input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the date input field.
-  - `label` (String): Label for the date input field.
-
----
-
-### `@datetime_local`
-
-Creates a datetime-local input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the datetime-local input field.
-  - `label` (String): Label for the datetime-local input field.
-
----
-
-### `@email`
-
-Creates an email input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the email input field.
-  - `label` (String): Label for the email input field.
-
----
-
-### `@number`
-
-Creates a number input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the number input field.
-  - `defaultValue` (Number): Default value for the number input field.
-
----
-
-### `@tel`
-
-Creates a telephone number input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the telephone number input field.
-  - `label` (String): Label for the telephone number input field.
-
----
-
-### `@password`
-
-Creates a password input field.
-
-- **Parameters**:
-  - `id` (String): Identifier for the password input field.
-  - `defaultValue` (String): Default value for the password input field.
-
----
-
-### `@select`
-
-Creates a dropdown select menu.
-
-- **Parameters**:
-  - `id` (String): Identifier for the select menu.
-  - `options` (Array of Strings): Array of options for the select menu.
-
----
-
-### `@radio`
-
-Creates a radio button group.
-
-- **Parameters**:
-  - `id` (String): Identifier for the radio button group.
-  - `options` (Array of Strings): Array of options for the radio button group.
+Parameters:
+1. id (String): A unique identifier for the radio button group.
+2. options (Array of Strings): An array of strings representing the radio button options.
+Example:
+````
+@radio(id: "gender", options: ["Male", "Female", "Other"])
+```
