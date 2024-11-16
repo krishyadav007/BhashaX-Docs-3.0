@@ -30,7 +30,7 @@ These functions create headings with varying levels of importance, from @display
 1. id (String): A unique identifier for the heading.
 2. text (String): The content of the heading.
 ### Example:
-````
+```
 @displayH1(id: "mainHeading", text: "Welcome to BhashaX!")
 ```
 # Interactive Buttons ( @button )
