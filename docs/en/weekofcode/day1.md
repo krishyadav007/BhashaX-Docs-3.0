@@ -1,4 +1,5 @@
 # Hello World
+Author: **Yuvaansh Kapila, Adithya Vasudevan**
 ## Overview
 Introduction to BhashaX: Understanding the basics of the platform and its graphical interface
 BhashaX Basics: Learning some of the fundamental concepts of BhashaX for creating and styling pages.
